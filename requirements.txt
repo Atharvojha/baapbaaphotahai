@@ -1,0 +1,7 @@
+sarvamai
+python-dotenv
+fastapi
+uvicorn[standard]
+python-multipart
+icalendar
+recurring-ical-events
